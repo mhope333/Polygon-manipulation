@@ -1,0 +1,23 @@
+{
+  "name": "Polygon-manipulation",
+  "version": "1.0.0",
+  "description": "Testing various functions to manipulate polygons in various ways",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mhope333/Polygon-manipulation.git"
+  },
+  "author": "Matt Hope",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@mapbox/sphericalmercator": "^1.2.0",
+    "@turf/area": "^6.5.0",
+    "@turf/bbox": "^6.5.0",
+    "@turf/turf": "^6.5.0",
+    "boundingbox": "^1.4.0",
+    "tiles-in-bbox": "^1.0.2"
+  },
+  "devDependencies": {
+  }
+}
