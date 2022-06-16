@@ -2029,25 +2029,7 @@
       ]
   },
   "meta" : {
-      "accepted" : {
-          "timestamp" : "2022-03-24T18:54:48.350Z"
-      },
-      "created" : {
-          "timestamp" : "2022-03-25T23:36:14.001Z"
-      },
-      "updated" : {
-          "timestamp" : "2022-03-25T23:36:14.001Z"
-      },
-      "action" : "created",
-      "isDeleted" : false,
-      "landRegistry" : {
-          "jobId" : "8cc447c8-3bd8-4211-800e-5ab79e509937",
-          "titleNumber" : "SGL654020"
-      },
-      "source" : [ 
-          "Land Registry"
-      ],
-      "documentSize" : 18744
+    "titleNumber" : "SGL654020"
   },
   "totalSiteArea" : {
       "value" : 10928.8126218529,

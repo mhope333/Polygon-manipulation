@@ -1626,25 +1626,7 @@
       ]
   },
   "meta" : {
-      "accepted" : {
-          "timestamp" : "2022-03-10T00:45:21.812Z"
-      },
-      "created" : {
-          "timestamp" : "2022-03-10T07:05:22.339Z"
-      },
-      "updated" : {
-          "timestamp" : "2022-03-10T07:05:22.339Z"
-      },
-      "action" : "created",
-      "isDeleted" : false,
-      "landRegistry" : {
-          "jobId" : "55ae730f-34d9-4902-a548-8847c719cfc3",
-          "titleNumber" : "LN213725"
-      },
-      "source" : [ 
-          "Land Registry"
-      ],
-      "documentSize" : 14776
+    "titleNumber" : "LN213725"
   },
   "totalSiteArea" : {
       "value" : 7687.56019114611,
